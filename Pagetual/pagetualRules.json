@@ -10662,4 +10662,11 @@
     "url": "^https?://www\\.pexels\\.com/",
     "enable": 0
 }
+{
+    "name": "Bangumi 番组计划",
+    "url": "^https?://bangumi\\.tv/.*/\\d+/.*",
+    "example": "https://bangumi.tv/person/60178/works",
+    "pageElement": "[class^=\"browser\"]",
+    "action": 0
+}
 ]
